@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Forms By Ak</title>
+    <link href="https://akhilraghav.rocks/feed.xml" rel="self" />
+    <link href="https://akhilraghav.rocks" />
+    <updated>2022-05-19T19:30:22+05:30</updated>
+    <author>
+        <name>HawkEye</name>
+    </author>
+    <id>https://akhilraghav.rocks</id>
+
+    <entry>
+        <title>Welcome to my shit-posting forum.</title>
+        <author>
+            <name>HawkEye</name>
+        </author>
+        <link href="https://akhilraghav.rocks/hi-i-hawkeye.html"/>
+        <id>https://akhilraghav.rocks/hi-i-hawkeye.html</id>
+
+        <updated>2022-05-19T19:30:22+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Loading…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="1081" src="https://docs.google.com/forms/d/e/1FAIpQLSf42ydIIbTDd7qIi1tNIodUVFFJwx2gMZNsiQRxEjG8P3Z3PQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

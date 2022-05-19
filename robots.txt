@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://akhilraghav.rocks/sitemap.xml

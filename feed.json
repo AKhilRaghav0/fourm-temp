@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Forms By Ak",
+    "description": "",
+    "home_page_url": "https://akhilraghav.rocks",
+    "feed_url": "https://akhilraghav.rocks/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HawkEye"
+    },
+    "items": [
+        {
+            "id": "https://akhilraghav.rocks/hi-i-hawkeye.html",
+            "url": "https://akhilraghav.rocks/hi-i-hawkeye.html",
+            "title": "Welcome to my shit-posting forum.",
+            "summary": "Loading…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"1081\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSf42ydIIbTDd7qIi1tNIodUVFFJwx2gMZNsiQRxEjG8P3Z3PQ/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
+            "author": {
+                "name": "HawkEye"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-24T19:03:33+05:30",
+            "date_modified": "2022-05-19T19:30:22+05:30"
+        }
+    ]
+}
